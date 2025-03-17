@@ -1,0 +1,46 @@
+body{
+    font-family:   'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.hamburger{
+    background-image: url(images/hamburger/AR-72657-best-hamburger-ever-ddmfs-4x3-hero-878e801ab30445988d007461782b3c25.jpg);
+    background-size: cover;
+    background-color: #e3b603; /* Green */
+    border: 2px solid wheat;
+    color: rgb(255, 255, 255); display: flex;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 12px;
+    align-items: center;
+    justify-content: center;
+   
+    height: 100px;
+    padding: 20px;
+    width: 10em;
+}
+
+.garlic{
+    background-image: url(images/garlic-bread/21080-great-garlic-bread-DDMFS-4x3-e1c7b5c79fde4d629a9b7bce6c0702ed.webp);
+    background-size: cover;
+    background-color: #e3b603; /* Green */
+    border: 2px solid wheat;
+    color: rgb(255, 255, 255); display: flex;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    border-radius: 12px;
+    align-items: center;
+    justify-content: center;
+   
+    height: 100px;
+    padding: 20px;
+    width: 10em;
+}
+span{
+    margin: 0 10px;
+}
